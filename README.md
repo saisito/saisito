@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @saisito
 - 👀 I’m interested in exploring artificial intelligence, computational physics and competitive programming.
-- 🌱 I’m currently learning advanced Python techniques and fundamentals of machine learning.
+- 🌱 I’m currently learning advanced Python techniques and machine learning fundamentals.
 - 📫 How to reach me: [alejandro.nunez@ib.edu.ar](mailto:alejandro.nunez@ib.edu.ar)
 - 😄 Pronouns: True/False
 - ⚡ Fun fact: Team no olives and no pineapple on pizza
